@@ -72,6 +72,13 @@
 
             #endregion
 
+            #region Tenth question
+            int copies = 100;
+            object obj2 = copies;
+            Console.WriteLine(obj2);
+            int copies2 = (int)obj2;
+            Console.WriteLine(copies2);
+            #endregion
 
 
 
