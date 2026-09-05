@@ -65,6 +65,12 @@
             }
             #endregion
 
+            #region Ninth question
+            int Pages2 = 464;
+
+            Console.WriteLine(Pages2.ToString().GetType().Name);
+
+            #endregion
 
 
 
