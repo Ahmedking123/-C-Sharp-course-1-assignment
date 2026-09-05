@@ -46,6 +46,10 @@
             int pages = 300;
             double db = pages;
             #endregion
+            #region Sixth question
+            double price = 49.99;
+            int priceInt = (int)price;
+            #endregion
 
 
 
