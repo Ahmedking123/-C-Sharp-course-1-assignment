@@ -12,10 +12,18 @@
 
             Console.WriteLine(obj);
             #endregion
+            #region Second question
 
-           
+            Console.WriteLine(book.ToString());
+            Console.WriteLine(book.Equals(book));
+            Console.WriteLine(book.GetHashCode());
+            Console.WriteLine(book.GetType());
 
-            
+            #endregion
+
+
+
+
 
         }
     }
