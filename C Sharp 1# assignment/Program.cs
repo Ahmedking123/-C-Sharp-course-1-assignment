@@ -50,6 +50,10 @@
             double price = 49.99;
             int priceInt = (int)price;
             #endregion
+            #region Seventh question
+            string pagesText = "464";
+            int pagesTextInt = Convert.ToInt32(pagesText);
+            #endregion
 
 
 
