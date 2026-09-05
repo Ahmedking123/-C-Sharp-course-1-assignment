@@ -4,7 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region First question
+
+            Book book = new Book();
+
+            object obj = book;
+
+            Console.WriteLine(obj);
+            #endregion
+
+           
+
+            
+
         }
     }
 }
